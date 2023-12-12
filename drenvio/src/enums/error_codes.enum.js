@@ -1,0 +1,7 @@
+const errorCodes = {
+    INTERNAL_SERVER_ERROR: 'INTERNAL_SERVER_ERROR',
+    FUNCTION_NOT_FOUND: 'FUNCTION_NOT_FOUND',
+    DATA_ID_REQUIRED: 'DATA_ID_REQUIRED',
+};
+
+module.exports = errorCodes;
